@@ -1,0 +1,4 @@
+[web]
+node1 ansible_host=172.31.82.156
+node2 ansible_host=172.31.85.129
+node3 ansible_host=172.31.92.79
